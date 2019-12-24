@@ -2851,6 +2851,9 @@ ul.social-intro li a:hover i {
 }
 
 @media (max-width: 576px) {
+  .resume img {
+    width: 100%!important;
+  }
 	
   .navigation li {
     width: calc(100% - 48px);
